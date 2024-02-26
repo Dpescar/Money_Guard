@@ -2,7 +2,7 @@
   "name": "Money Guard - React Project_Team 2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://schlenge.github.io/Money-Guard-App-Team2/",
+  "homepage": "https://dpescar.github.io/Money_Guard/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.1.0",
